@@ -177,6 +177,11 @@
         <mxCell id="qeHFE5mkfLP8KZIX4y5K-68" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="300" y="570" width="134" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="qeHFE5mkfLP8KZIX4y5K-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="qeHFE5mkfLP8KZIX4y5K-68" source="qeHFE5mkfLP8KZIX4y5K-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qeHFE5mkfLP8KZIX4y5K-69" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Chat Agen&lt;/span&gt;t&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="qeHFE5mkfLP8KZIX4y5K-68">
           <mxGeometry x="-20" y="10" width="140" height="60" as="geometry" />
         </mxCell>
@@ -208,6 +213,24 @@
           <mxGeometry x="-0.5284" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qeHFE5mkfLP8KZIX4y5K-115" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essentials-2479/039_-_Cross-1213.svg" vertex="1" parent="1">
+          <mxGeometry x="250" y="680.0042857142857" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="qeHFE5mkfLP8KZIX4y5K-117" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="650" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qeHFE5mkfLP8KZIX4y5K-118" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Integraton with Desktop/Rainbow Agent (Accept Agent Credentials)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=left;" vertex="1" parent="qeHFE5mkfLP8KZIX4y5K-117">
+          <mxGeometry x="-20" y="30" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qeHFE5mkfLP8KZIX4y5K-122" value="" style="group" vertex="1" connectable="0" parent="qeHFE5mkfLP8KZIX4y5K-117">
+          <mxGeometry y="30" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qeHFE5mkfLP8KZIX4y5K-123" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;New Message Notificaiton&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=left;" vertex="1" parent="qeHFE5mkfLP8KZIX4y5K-122">
+          <mxGeometry x="-20" y="30" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qeHFE5mkfLP8KZIX4y5K-125" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essentials-2479/039_-_Cross-1213.svg" vertex="1" parent="1">
+          <mxGeometry x="250" y="710" width="24" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
