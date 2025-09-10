@@ -49,9 +49,9 @@
         <mxCell id="qeHFE5mkfLP8KZIX4y5K-30" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="550" y="30" width="134" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qeHFE5mkfLP8KZIX4y5K-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="qeHFE5mkfLP8KZIX4y5K-30" source="qeHFE5mkfLP8KZIX4y5K-31">
+        <mxCell id="qeHFE5mkfLP8KZIX4y5K-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="qeHFE5mkfLP8KZIX4y5K-30" source="qeHFE5mkfLP8KZIX4y5K-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="440" as="targetPoint" />
+            <mxPoint x="200" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qeHFE5mkfLP8KZIX4y5K-31" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Interact&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="qeHFE5mkfLP8KZIX4y5K-30">
