@@ -28,7 +28,7 @@
         </mxCell>
         <mxCell id="qeHFE5mkfLP8KZIX4y5K-109" value="Popup Window&lt;br&gt;Pass Agent&amp;nbsp;&lt;br&gt;Credentials" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qeHFE5mkfLP8KZIX4y5K-88">
           <mxGeometry x="-0.1751" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="85" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qeHFE5mkfLP8KZIX4y5K-6" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Chat Server&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#CCCCCC);" vertex="1" parent="qeHFE5mkfLP8KZIX4y5K-10">
